@@ -32,8 +32,9 @@ The website was designed for both desktop and mobile users, with the layout adap
 ## 📸 Preview
 
 ### Desktop
+<img width="440" height="362" alt="Screenshot 2026-08-31 150031" src="https://github.com/user-attachments/assets/2b4fe66c-4eab-48c0-9ec3-1a5792400e0e" />
 
-C:\Users\Repati kosam\OneDrive\Pictures\Screenshots
+
 
 ### Mobile
 
