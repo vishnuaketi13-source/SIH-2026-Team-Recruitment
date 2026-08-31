@@ -34,6 +34,9 @@ The website was designed for both desktop and mobile users, with the layout adap
 ### Desktop
 <img width="440" height="362" alt="Screenshot 2026-08-31 150031" src="https://github.com/user-attachments/assets/2b4fe66c-4eab-48c0-9ec3-1a5792400e0e" />
 
+<img width="465" height="352" alt="Screenshot 2026-08-31 150051" src="https://github.com/user-attachments/assets/0016eb12-1478-4f43-85f4-5cab8c0c2e52" />
+
+
 
 
 ### Mobile
