@@ -33,7 +33,7 @@ The website was designed for both desktop and mobile users, with the layout adap
 
 ### Desktop
 
-*Add your desktop screenshots here.*
+C:\Users\Repati kosam\OneDrive\Pictures\Screenshots
 
 ### Mobile
 
